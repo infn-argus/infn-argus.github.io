@@ -7,3 +7,7 @@ This is a static GitHub Pages site. Open `index.html` to preview it locally. Tex
 language-aware destinations are maintained in `script.js`; layout is in `styles.css`.
 
 The site uses the ARGUS app icon under the same EUPL-1.2 license as the project site.
+
+The `assets/argus-timing-assistance.webp` and `assets/argus-field-mobile.webp`
+screenshots were supplied by the site maintainer and cropped without changing
+interface content. They illustrate a captured moment, not current system status.
